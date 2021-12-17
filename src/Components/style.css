@@ -1,0 +1,56 @@
+.headerlist{
+    font-family: 'ubuntu';
+    margin: 50px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: left;
+}
+.footer
+{
+    font-family: 'ubuntu';
+    background-color: steelblue;
+    background-blend-mode: lighten;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.contactstate {
+    font-family: 'ubuntu';
+    font-size: large;
+    height: 60px;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+  }
+.navbar{
+    background-color: rgb(0, 158, 124);
+    padding: 10px;
+    text-align: right;
+    text-decoration-color: white;
+}
+.main{
+    font-family: 'ubuntu';
+    padding: 50px;
+    font-family: "algerian";
+}
+.studentlist{
+    
+    font-family: 'ubuntu';
+    background-color: rgb(153, 192, 255);
+    display: inline-table;
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 30px;
+    text-align: center;
+    border-radius: 50px; 
+    padding-top: 50px;
+}
+.studentdetails
+{
+    font-family: 'ubuntu';
+    text-align: center;
+    margin: 20px;
+}
